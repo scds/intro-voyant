@@ -34,4 +34,4 @@ Installation steps may vary depending on MAC OS version. The full process is out
 ![Voyant Server Window](figures/voyant-server.png)
 
 ### Voyant Tools in a browser window
-![Voyant Tools in a browser](figures/voyant-broswer.png)
+![Voyant Tools in a browser](figures/voyant-browser.png)

@@ -1,1 +1,7 @@
 theme: jekyll-theme-architect
+remote_theme: scds/just-the-docs
+github_repo_url: "https://scds.github.io/intro-voyant/"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

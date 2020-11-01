@@ -5,6 +5,22 @@ title: Preparation
 
 # Workshop preparation 
 
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('mcmaster');
+    toggleDarkMode.textContent = 'Dark theme';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light theme';
+  }
+});
+</script>
+
 For this workshop, you have the option to use Voyant Tools in one of two ways: 
 - Using [Voyant on the web](https://voyant-tools.org/), which requires no setup (just open it in a browser).
 - Downloading and running Voyant Tools on your local computer--this requires extra setup (see below), but eliminates the chance that network issues or high traffic on the Voyant website will slow you down. 

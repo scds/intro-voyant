@@ -12,7 +12,7 @@ For this workshop, you have the option to use Voyant Tools in one of two ways:
 ## Running Voyant Tools on your own computer
 ### For Windows
 1. Download [VoyantServer2_4-M45.zip](https://github.com/sgsinclair/VoyantServer/releases/download/2.4.0-M45/VoyantServer2_4-M45.zip) to your local computer from the [Voyant GitHub repository](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45)
-2. Unzip the file. Bbe sure to actually extract the zip file -- do not just open it.
+2. Unzip the file. Be sure to actually extract the zip file -- do not just open it.
 3. Open the unzipped file and double-click ```VoyantServer.jar```. On Windows 10, you may be prompted to Allow Access
 4. A Voyant Server window should appear, and Voyant Tools should open in a browser window at localhost (http://127.0.0.1:8888)
     * If Voyant Tools do not open in a browser window, click 'Open Web' in the Voyant Server Window

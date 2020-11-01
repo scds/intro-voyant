@@ -5,7 +5,7 @@ title: Preparation
 
 # Workshop preparation 
 
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+<button class="btn js-toggle-dark-mode">Dark Theme</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');

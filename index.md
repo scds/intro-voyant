@@ -5,6 +5,7 @@ title: Preparation
 
 # Workshop preparation 
 
+<!--
 <button class="btn js-toggle-dark-mode">Dark Theme</button>
 
 <script>
@@ -20,7 +21,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-
+-->
   
 For this workshop, you have the option to use Voyant Tools in one of two ways: 
 - Using [Voyant on the web](https://voyant-tools.org/), which requires no setup (just open it in a browser).

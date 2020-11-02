@@ -2,6 +2,7 @@ title: Textual Analysis with Voyant
 remote_theme: scds/just-the-docs
 github_repo_url: "https://scds.github.io/intro-voyant/"
 color_scheme: mcmaster
+logo: "/assets/img/scds-logo-1280p.png"
 
 plugins:
   - jekyll-remote-theme

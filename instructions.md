@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 02 - Instructions
-order: 2
+title: 03 - Instructions
+order: 3
 ---
 
 

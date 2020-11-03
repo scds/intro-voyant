@@ -11,4 +11,4 @@ nav_order: 1
 
 Written documents can be transformed into data for visualization, helping Humanities scholars see texts in different ways. In this tutorial, we will use the web-based application [Voyant Tools](https://voyant-tools.org/) to analyze and visualize the text content of documents.
 
-Proceed to the [Preparation](/preparation) page to get started.
+Proceed to the [Preparation](preparation) page to get started.

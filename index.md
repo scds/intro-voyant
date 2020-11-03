@@ -1,6 +1,14 @@
 ---
 layout: home
-title: Home
+title: Text Analysis with Voyant
+subtitle: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
+<img src="/assets/img/dmds-voyant.png?raw=true" alt="Workshop Title Slide" width="720">
+
+# Welcome to Text Analysis with Voyant. 
+
+Written documents can be transformed into data for visualization, helping Humanities scholars see texts in different ways. In this tutorial, we will use the web-based application [Voyant Tools](https://voyant-tools.org/) to analyze and visualize the text content of documents.
+
+Proceed to the [Preparation](/preparation) page to get started.

@@ -5,7 +5,7 @@ subtitle: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<img src="/assets/img/dmds-voyant.png?raw=true" alt="Workshop Title Slide" width="720">
+<img src="assets/img/dmds-voyant.png" alt="Workshop Title Slide" width="720">
 
 # Welcome to Text Analysis with Voyant. 
 

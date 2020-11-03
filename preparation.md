@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 01 - Preparation
-order: 1
+title: 02 - Preparation
+order: 2
 ---
 
 # Workshop preparation 

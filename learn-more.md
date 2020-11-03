@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 03 - Learn More
-order: 3
+title: 04 - Learn More
+order: 4
 ---
 
 ## Coming soon

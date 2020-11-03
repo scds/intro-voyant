@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 03 - Instructions
-order: 3
+title: Instructions
+nav_order: 3
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-layout: default
-title: 01 - Home
+layout: home
+title: Home
 nav_order: 1
 ---
+

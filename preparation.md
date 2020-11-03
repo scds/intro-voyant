@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 02 - Preparation
-order: 2
+title: Preparation
+nav_order: 2
 ---
 
 # Workshop preparation 

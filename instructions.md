@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text Analysis with Voyant
+title: Getting Started with Voyant
 nav_order: 3
 ---
 

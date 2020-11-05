@@ -24,8 +24,11 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>
 -->
 
-Preparation for this tutorial consists of two steps: [Choosing your Voyant Tools Instance](#choose-your-voyant-instance), and [Getting the data](#get-the-data).
+Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Choosing your Voyant Tools Instance](#choose-your-voyant-instance). Follow the steps below. 
   
+## Get the data
+- Download the [platforms-as-text](https://github.com/scds/intro-voyant/raw/main/data/platforms-as-text.zip) zipfile to a working directory on your computer.
+- Unzip it. 
 
 ## Choose your Voyant Instance
 
@@ -61,7 +64,4 @@ Installation steps may vary depending on MAC OS version. The full process is out
 ***Voyant Tools in a browser window***
 ![Voyant Tools in a browser](assets/img/voyant-browser.png)
 
-## Get the data
-- Download the [platforms-as-text](https://github.com/scds/intro-voyant/raw/main/data/platforms-as-text.zip) zipfile to a working directory on your computer.
-- Unzip it. 
 

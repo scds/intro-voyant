@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Text Analysis with Voyant
-subtitle: SCDS Do More with Digital Scholarship workshop series
+title: Home
+description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 

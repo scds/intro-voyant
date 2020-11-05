@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Instructions
+title: Text Analysis with Voyant
 nav_order: 3
 ---
+
+After ensuring that you've followed the [Preparatory steps](preparation), open Voyant Tools and follow along with the workshop recording or slides. 
 
 ## Workshop recording
 

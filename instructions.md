@@ -6,9 +6,14 @@ nav_order: 3
 
 After ensuring that you've followed the [Preparatory steps](preparation), open Voyant Tools and follow along with the workshop recording or slides. 
 
-## Workshop recording
+## 2021 Workshop recording
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public?autoplay=false&automute=false"></iframe>
+<!--View the original [here](https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public).-->
+
+## 2022 Workshop recording
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/47bc1828-72c0-4936-b963-5ad76743142b/public"></iframe>
 <!--View the original [here](https://echo360.ca/media/cf61730c-a57a-4591-aeef-a4abf37a78ec/public).-->
 
 ## Workshop slides
@@ -17,6 +22,3 @@ After ensuring that you've followed the [Preparatory steps](preparation), open V
 </div>
 [Download as a PDF](https://github.com/scds/intro-voyant/raw/main/assets/docs/voyant_20201104.pdf)
 <br>
-
-## Worksheets
-Coming soon!

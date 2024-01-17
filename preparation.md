@@ -36,7 +36,7 @@ Installation steps may vary depending on MAC OS version. The full process is out
     * Hold Ctrl and click on the folder that contains the VoyantServer.jar file, likely “VoyantServer2_4-M45” if you unzipped it without changing the folder name
     * From the menu, select “New Terminal at Folder” which will open a terminal window at the level of the directory
     * Type  java -jar VoyantServer.jar in the command line and press the Return key 
-    * The Voyant Tools home page should open in your preferred web browser at localhost (http://127.0.0.1:8888)
+    * The Voyant Tools home page should open in your preferred web browser at localhost (<http://127.0.0.1:8888>)
 
 ***Voyant Server Window***
 <img src="assets/img/voyant-server.png" style="border: 2px solid black" alt="Voyant Server Window" width="80%">

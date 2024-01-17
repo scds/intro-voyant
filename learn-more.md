@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Learn More
+title: Additional Resources
 nav_order: 4
 ---
 
-## More info and other tools
+# Additional Resources
+To learn more about any particular topic, take a look at the links below.
+
 - Voyant Tools [Help Guide](https://voyant-tools.org/docs/#!/guide/start)
 - Voyant Tools [Gallery](https://voyant-tools.org/docs/#!/guide/gallery) of research and teaching application examples.
 - [Mallet](http://mallet.cs.umass.edu/topics.php) - MAchine Learning for LanguagE Toolkit for topic modeling approaches

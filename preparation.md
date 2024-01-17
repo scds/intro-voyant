@@ -5,39 +5,19 @@ nav_order: 2
 ---
 
 # Workshop preparation 
-
-<!--
-<button class="btn js-toggle-dark-mode">Dark Theme</button>
-
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('mcmaster');
-    toggleDarkMode.textContent = 'Dark theme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Light theme';
-  }
-});
-</script>
--->
-
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Choosing your Voyant Tools Instance](#choose-your-voyant-instance). Follow the steps below. 
   
-## Get the data
-- Download the [platforms-as-text](https://github.com/scds/intro-voyant/raw/main/data/platforms-as-text.zip) zipfile to a working directory on your computer.
+## 1. Get the data
+- Download the [platforms-as-text](data/platforms-as-text.zip) zipfile to a working directory on your computer.
 - Unzip it. 
 
-## Choose your Voyant Instance
+## 2. Choose your Voyant Instance
 
 For this workshop, you have the option to use Voyant Tools in one of two ways: 
 - Using [Voyant on the web](https://voyant-tools.org/), which requires no setup (just open it in a browser).
 - Downloading and running Voyant Tools on your local computer--this requires extra setup (see below), but eliminates the chance that network issues or high traffic on the Voyant website will slow you down. 
 
 ### Using Voyant on the web
-1. Navigate to [https://voyant-tools.org/](https://voyant-tools.org/). **You're ready!**
+1. Navigate to <https://voyant-tools.org/>. **You're ready!**
 
 ### Installing and running Voyant on Windows
 1. Download [VoyantServer2_4-M45.zip](https://github.com/sgsinclair/VoyantServer/releases/download/2.4.0-M45/VoyantServer2_4-M45.zip) to your local computer from the [Voyant GitHub repository](https://github.com/sgsinclair/VoyantServer/releases/tag/2.4.0-M45)
@@ -56,12 +36,12 @@ Installation steps may vary depending on MAC OS version. The full process is out
     * Hold Ctrl and click on the folder that contains the VoyantServer.jar file, likely “VoyantServer2_4-M45” if you unzipped it without changing the folder name
     * From the menu, select “New Terminal at Folder” which will open a terminal window at the level of the directory
     * Type  java -jar VoyantServer.jar in the command line and press the Return key 
-    * The Voyant Tools home page should open in your preferred web browser at localhost (http://127.0.0.1:8888)
+    * The Voyant Tools home page should open in your preferred web browser at localhost (<http://127.0.0.1:8888>)
 
 ***Voyant Server Window***
-![Voyant Server Window](assets/img/voyant-server.png)
+<img src="assets/img/voyant-server.png" style="border: 2px solid black" alt="Voyant Server Window" width="80%">
 
 ***Voyant Tools in a browser window***
-![Voyant Tools in a browser](assets/img/voyant-browser.png)
+<img src="assets/img/voyant-browser.png" style="border: 2px solid black" alt="Voyant Tools in a browser" width="100%">
 
 

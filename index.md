@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-<img src="assets/img/TWITTER-Visualizing texts Jan 26.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 # Textual Analysis with Voyant
 
